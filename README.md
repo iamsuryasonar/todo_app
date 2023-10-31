@@ -1,7 +1,7 @@
 # todo_app
 
 
-Todo app - mark complete, undo completed todo, delete todo
+Todo app - add todo, mark complete, undo completed todo, delete todo
 
 
 
